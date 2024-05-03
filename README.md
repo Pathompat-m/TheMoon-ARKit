@@ -1,5 +1,4 @@
-# theMoon-ARKit
-
+# TheMoon-ARKit
 
 ## What I've created
 
@@ -12,4 +11,7 @@ theMoon-ARKit is an iOS app that uses ARKit to create an augmented reality exper
 * How to interact with ARKit features, such as tracking and placement of virtual objects.
 * How to enhance user experiences through augmented reality technology.
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp.
+## Screenshot
+![TheMoon](https://github.com/Pathompat-m/SeeFood-coreML/assets/151487556/8f542450-af0a-490a-8df7-8915e39bd0f9)
+
+>This is a companion project to The App Brewery's Complete App Development Bootcamp.
