@@ -1,8 +1,8 @@
 # TheMoon-ARKit
 
-## What I've created
+## Overview
 
-theMoon-ARKit is an iOS app that uses ARKit to create an augmented reality experience of the moon.
+TheMoon-ARKit is an iOS app that uses ARKit to create an augmented reality experience of the moon.
 
 ## What I've learned
 
